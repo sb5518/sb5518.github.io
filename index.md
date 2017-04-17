@@ -19,10 +19,10 @@ Some interesting courses I have taken:
 # [](#header-2)Projects
 Latest projects I have been working on:
 
-- Sebastian Brarda and Philip Yeres. 2017. _CWord: Sequential Attention Model_ ([pdf](https://github.com/fducau/CWord/blob/master/CWord_fnd212_mvp291.pdf), [source](https://github.com/pyeres/rc-cnn-dailymail))
+- Sebastian Brarda and Philip Yeres. 2017. _CWord: Sequential Attention Model_ ([pdf](https://github.com/sb5518/sb5518.github.io/blob/master/SequentialAttention.pdf), [source](https://github.com/pyeres/rc-cnn-dailymail))
 
 - Sebastian Brarda, Felipe Ducau, Maria Elena Villalobos Ponte. 2016. _SightWalk: Automatic Generation of walking paths from social media_ ([pdf](https://github.com/fducau/sightwalk/blob/master/SightWalk_Final_Report.pdf), [demo](http://www.youtube.com/watch?v=GAvCeND9iRI), [source](https://github.com/fducau/sightwalk)). 
 
    Recipient of the 2016 Capstone Project of the Year award - NYU Center for Data Science.
 
-- Felipe Ducau and Sony Trenous, advised by Joan Bruna. 2016. _infoVAE: Mutual Information in Variational Autoencoders_ ([pdf](https://github.com/fducau/infoVAE/blob/master/Mutual%20Information%20in%20Variational%20Autoencoders.pdf), [source](https://github.com/fducau/infoVAE))
+- Felipe Ducau and Maria Elena Villalobos Ponte, advised by David Sontag. 2016. _infoVAE: Exploring Causal Inference Methods for Data Leakage Discovery_ ([pdf](https://github.com/sb5518/sb5518.github.io/blob/master/Inference.pdf)
