@@ -26,3 +26,5 @@ Latest projects I have been working on:
    Recipient of the 2016 Capstone Project of the Year award - NYU Center for Data Science.
 
 - Sebastian Brarda and Maria Elena Villalobos Ponte, advised by David Sontag. 2016. _infoVAE: Exploring Causal Inference Methods for Data Leakage Discovery_ ([pdf](https://github.com/sb5518/sb5518.github.io/blob/master/Inference.pdf))
+
+- Felipe Ducau, Michael Higgins, Sebastian Brarda. 2016. _infoVAE: Probability Estimation for Online Education System_ ([pdf](https://github.com/fducau/ML2016_EDU/blob/master/DS-GA-1003_Final_Project.pdf), [source](https://github.com/fducau/ML2016_EDU))
